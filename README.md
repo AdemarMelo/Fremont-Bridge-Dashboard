@@ -19,7 +19,7 @@ An interactive dashboard built with **Python**, **Streamlit**, **Pandas**, and *
 
 ## Dataset
 
-Seattle Fremont Bridge Bicycle Counter dataset.
+This dashboard uses the Seattle Fremont Bridge Bicycle Counter dataset to analyse cyclist traffic patterns across the East and West sidewalks.
 
 ## Author
 
